@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.default {
+  display: flex;
+  flex-direction: column;
+  flex-direction: flex-start;
+  align-items: center;
+  color: #64748b;
+}
+.yetToRegister {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  color: #64748b;
+}
+.ytrlogo {
+  height: 30vh;
+  width: 30vw;
+}
+.registeredLogo {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 30px;
+}

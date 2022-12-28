@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item {
+  list-style-type: none;
+}
+.img {
+  height: 25vh;
+  width: 25vw;
+}
+
+.mt {
+  margin-top: -15px;
+}
+
+.button {
+  background-color: transparent;
+  border: 0;
+  color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 12px;
+}

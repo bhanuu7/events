@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  height: auto;
+  font-family: roboto;
+}
+
+.eventBg {
+  display: flex;
+  height: max-content;
+  width: 65vw;
+  color: #ffffff;
+  flex-direction: column;
+  background-color: #475569;
+  padding: 20px;
+}
+
+.eventContainer {
+  display: flex;
+
+  flex-wrap: wrap;
+}
+
+.activeElementBg {
+  display: flex;
+  display: column;
+
+  text-align: center;
+  width: 30vw;
+}
